@@ -1,5 +1,7 @@
 # Daily Planner
 
+https://metropolis488.github.io/daily-planner/
+
 Primary technologies:
 - Jquery
 - Local Storage
