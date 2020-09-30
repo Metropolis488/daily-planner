@@ -11,3 +11,5 @@ This was an exercise in learning how to build a simple application with Local St
 Contact: Metropolis.4488@gmail.com
 
 ![Image](https://github.com/Metropolis488/Personal_Profile/blob/master/assets/daily_planner_app.png)
+
+![Image](https://github.com/Metropolis488/Personal_Profile/blob/master/assets/plannerapp2.png)
